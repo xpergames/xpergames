@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xpergames
-- 👀 I’m interested in game development/logo design/
+- 👀 I’m interested in AI/ML,IOT and Blockchain Technology.
 - 📫 How to reach me om07092005@gmail.com
 
 <!---
